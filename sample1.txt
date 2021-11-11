@@ -4,3 +4,5 @@ this is 3 line
 first line was missed
 second line was missed
 third line IS ok
+
+some lines added
